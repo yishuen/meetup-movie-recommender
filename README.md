@@ -13,7 +13,7 @@ I wrote a couple posts on Medium about recommendation engines: https://medium.co
 - [A Primer to Recommendation Engines](https://towardsdatascience.com/a-primer-to-recommendation-engines-49bd12ed849f)
 - [Collaborative Filtering on Utility Matrices](https://towardsdatascience.com/math-for-data-science-collaborative-filtering-on-utility-matrices-e62fa9badaab)
 
-A great book on recommendation engines. My favorite chapter is Chapter 9, and I highly *recommend* it if you want to understand how SVD works using gradient descent + Alternating Least Squares.  
+A great book on big data. My favorite chapter is Chapter 9, and I highly *recommend* it if you want to understand how SVD works using gradient descent + Alternating Least Squares.
 - http://infolab.stanford.edu/~ullman/mmds/book.pdf
 
 A couple really good podcast episodes that got me started with recommendation engines:
