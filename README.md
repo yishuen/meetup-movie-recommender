@@ -1,11 +1,24 @@
 # Movie Recommender: Code-Along
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yishuen/meetup-movie-recommender/master)
 
-A code-along Jupyter notebook for the Flatiron School Meetup, "The Science Behind Netflix Recommendations: Workshop", presented on: 
+A code-along Jupyter notebook for the Flatiron School Meetup, "The Science Behind Netflix Recommendations: Workshop", presented on:
 - June 5, 2019
 - October 21, 2019
 
 The dataset used is **The Movies Dataset** found on Kaggle, specifically from the file *ratings_small.csv*: https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+## Accessing the Code:
+
+The easiest way to see the code is by clicking here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yishuen/meetup-movie-recommender/master)
+
+If you're reading the code in Binder, you won't be able to run `codealong`, but you can view `codealong-clean`.
+
+If you do want to run the code on your own, download Jupyter Notebook and run these lines in your terminal:
+
+ 1. `git clone https://github.com/yishuen/meetup-movie-recommender.git`
+ 2. `cd meetup-movie-recommender`
+ 3. `jupyter notebook`
+
 
 ## Additional Readings and Resources:
 
