@@ -5,6 +5,8 @@ A code-along Jupyter notebook for the Flatiron School Meetup, "The Science Behin
 - June 5, 2019
 - October 21, 2019
 
+[Slides](https://github.com/yishuen/meetup-movie-recommender/blob/master/Science-of-Netflix.pdf)
+
 The dataset used is **The Movies Dataset** found on Kaggle, specifically from the file *ratings_small.csv*: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 ## Accessing the Code:
