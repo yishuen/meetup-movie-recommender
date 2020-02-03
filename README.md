@@ -4,6 +4,7 @@
 A code-along Jupyter notebook for the Flatiron School Meetup, "The Science Behind Netflix Recommendations: Workshop", presented on:
 - June 5, 2019
 - October 21, 2019
+- Feb 3, 2020 (Webinar)
 
 [Slides](https://github.com/yishuen/meetup-movie-recommender/blob/master/Science-of-Netflix.pdf)
 
